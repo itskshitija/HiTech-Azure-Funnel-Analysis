@@ -1,1 +1,1 @@
-# HiTech-Azure-Funnel-Analysis
+# HiTech Azure Funnel Analysis
