@@ -2,6 +2,8 @@
 
 Welcome to the **Funnel Analysis Project - HiTech Azure**! This project analyzes the adoption funnel for a cloud services company, identifying drop-off points and evaluating the onboarding journey to improve user retention and increase successful cloud adoption rates.
 
+# 📍Access Google Sheets for the comprehensive overview of the project [Here](https://docs.google.com/spreadsheets/d/1eFyL8MTQaROb5tMNXzlU90yEyND91l6CdVQxDH66_50/edit?gid=1900977113#gid=1900977113)
+
 ## 📝 Project Overview
 
 ### Objectives
