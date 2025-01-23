@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/kshitija-chilbule-b98515309/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
+</a>
+
 # 📊 Funnel Analysis Project - HiTech Azure
 
 Welcome to the **Funnel Analysis Project - HiTech Azure**! This project analyzes the adoption funnel for a cloud services company, identifying drop-off points and evaluating the onboarding journey to improve user retention and increase successful cloud adoption rates.
@@ -68,7 +72,9 @@ This project includes a dashboard showcasing:
 -  The conversion rate of employed (30%) is higher than that of academic participants (20%)
 -  The average time spent by academic and employed participant is almost same.
 
-## 📬 Contact
-**Author:** Kshitija Chilbule
+## Connect 🤝
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Medium:</b> https://medium.com/@kshitijachilbule2
 
-For inquiries, email: kshitijachilbule2@gmail.com
